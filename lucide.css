@@ -1,11 +1,11 @@
 @font-face {
   font-family: "lucide";
-  src: url('lucide.eot?t=1703771442123'); /* IE9*/
-  src: url('lucide.eot?t=1703771442123#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("lucide.woff2?t=1703771442123") format("woff2"),
-  url("lucide.woff?t=1703771442123") format("woff"),
-  url('lucide.ttf?t=1703771442123') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('lucide.svg?t=1703771442123#lucide') format('svg'); /* iOS 4.1- */
+  src: url('https://github.com/The-Hybrid-Company/lucide-font/raw/main/lucide.eot?t=1703771442123'); /* IE9*/
+  src: url('https://github.com/The-Hybrid-Company/lucide-font/raw/main/lucide.eot?t=1703771442123#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("https://github.com/The-Hybrid-Company/lucide-font/raw/main/lucide.woff2?t=1703771442123") format("woff2"),
+  url("https://github.com/The-Hybrid-Company/lucide-font/raw/main/lucide.woff?t=1703771442123") format("woff"),
+  url('https://github.com/The-Hybrid-Company/lucide-font/raw/main/lucide.ttf?t=1703771442123') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('https://github.com/The-Hybrid-Company/lucide-font/raw/main/lucide.svg?t=1703771442123#lucide') format('svg'); /* iOS 4.1- */
 }
 
 [class^="icon-"], [class*=" icon-"] {
